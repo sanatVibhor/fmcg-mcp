@@ -1,0 +1,21 @@
+activity_id,competitor,region,quarter,discount_pct,activity_level,campaign
+COMP00001,L'Oreal,North,Q3,13,High,Influencer campaign
+COMP00002,L'Oreal,South,Q3,20,High,Aggressive shampoo discount campaign across South India modern trade
+COMP00003,L'Oreal,East,Q3,14,Medium,Influencer campaign
+COMP00004,L'Oreal,West,Q3,9,Low,Retail promotion
+COMP00005,P&G,North,Q3,7,Medium,New product launch
+COMP00006,P&G,South,Q3,14,Low,Retail promotion
+COMP00007,P&G,East,Q3,12,High,Influencer campaign
+COMP00008,P&G,West,Q3,10,Medium,Retail promotion
+COMP00009,ITC,North,Q3,15,High,Influencer campaign
+COMP00010,ITC,South,Q3,6,Low,Retail promotion
+COMP00011,ITC,East,Q3,10,Medium,Retail promotion
+COMP00012,ITC,West,Q3,9,High,Digital campaign
+COMP00013,Nivea,North,Q3,9,Medium,Retailer incentive
+COMP00014,Nivea,South,Q3,11,High,Digital campaign
+COMP00015,Nivea,East,Q3,10,Medium,Retail promotion
+COMP00016,Nivea,West,Q3,8,High,Digital campaign
+COMP00017,Patanjali,North,Q3,6,Medium,Retailer incentive
+COMP00018,Patanjali,South,Q3,5,Medium,Retailer incentive
+COMP00019,Patanjali,East,Q3,13,Low,New product launch
+COMP00020,Patanjali,West,Q3,9,Low,New product launch

@@ -1,0 +1,9 @@
+product_id,product_name,category,brand,base_price
+P001,Dove Shampoo,Hair Care,Dove,350
+P002,Dove Conditioner,Hair Care,Dove,320
+P003,Lux Soap,Personal Care,Lux,110
+P004,Surf Excel,Home Care,Surf Excel,280
+P005,Vaseline Body Lotion,Skin Care,Vaseline,260
+P006,Axe Body Spray,Personal Care,Axe,250
+P007,Pepsodent Toothpaste,Oral Care,Pepsodent,150
+P008,Horlicks,Nutrition,Horlicks,450

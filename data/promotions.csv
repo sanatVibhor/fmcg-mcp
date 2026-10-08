@@ -1,0 +1,65 @@
+promotion_id,product_id,region,quarter,discount_pct,promotion_type
+PROMO00001,P001,North,Q2,10,Bundle
+PROMO00002,P001,North,Q3,5,Buy One Get One
+PROMO00003,P001,South,Q2,15,Buy One Get One
+PROMO00004,P001,South,Q3,5,Retailer Incentive
+PROMO00005,P001,East,Q2,10,Retailer Incentive
+PROMO00006,P001,East,Q3,15,Retailer Incentive
+PROMO00007,P001,West,Q2,15,Price Discount
+PROMO00008,P001,West,Q3,10,Bundle
+PROMO00009,P002,North,Q2,10,Buy One Get One
+PROMO00010,P002,North,Q3,10,Price Discount
+PROMO00011,P002,South,Q2,10,Bundle
+PROMO00012,P002,South,Q3,15,Buy One Get One
+PROMO00013,P002,East,Q2,15,Price Discount
+PROMO00014,P002,East,Q3,5,Price Discount
+PROMO00015,P002,West,Q2,15,Price Discount
+PROMO00016,P002,West,Q3,10,Price Discount
+PROMO00017,P003,North,Q2,10,Price Discount
+PROMO00018,P003,North,Q3,5,Bundle
+PROMO00019,P003,South,Q2,10,Bundle
+PROMO00020,P003,South,Q3,10,Price Discount
+PROMO00021,P003,East,Q2,10,Retailer Incentive
+PROMO00022,P003,East,Q3,10,Price Discount
+PROMO00023,P003,West,Q2,5,Price Discount
+PROMO00024,P003,West,Q3,5,Price Discount
+PROMO00025,P004,North,Q2,5,Retailer Incentive
+PROMO00026,P004,North,Q3,15,Buy One Get One
+PROMO00027,P004,South,Q2,10,Bundle
+PROMO00028,P004,South,Q3,5,Buy One Get One
+PROMO00029,P004,East,Q2,10,Bundle
+PROMO00030,P004,East,Q3,10,Price Discount
+PROMO00031,P004,West,Q2,5,Price Discount
+PROMO00032,P004,West,Q3,5,Price Discount
+PROMO00033,P005,North,Q2,10,Price Discount
+PROMO00034,P005,North,Q3,5,Bundle
+PROMO00035,P005,South,Q2,5,Buy One Get One
+PROMO00036,P005,South,Q3,15,Retailer Incentive
+PROMO00037,P005,East,Q2,5,Price Discount
+PROMO00038,P005,East,Q3,10,Retailer Incentive
+PROMO00039,P005,West,Q2,5,Buy One Get One
+PROMO00040,P005,West,Q3,5,Buy One Get One
+PROMO00041,P006,North,Q2,10,Price Discount
+PROMO00042,P006,North,Q3,10,Buy One Get One
+PROMO00043,P006,South,Q2,5,Bundle
+PROMO00044,P006,South,Q3,5,Bundle
+PROMO00045,P006,East,Q2,15,Retailer Incentive
+PROMO00046,P006,East,Q3,5,Retailer Incentive
+PROMO00047,P006,West,Q2,10,Price Discount
+PROMO00048,P006,West,Q3,5,Price Discount
+PROMO00049,P007,North,Q2,10,Price Discount
+PROMO00050,P007,North,Q3,15,Buy One Get One
+PROMO00051,P007,South,Q2,10,Buy One Get One
+PROMO00052,P007,South,Q3,15,Price Discount
+PROMO00053,P007,East,Q2,10,Retailer Incentive
+PROMO00054,P007,East,Q3,10,Buy One Get One
+PROMO00055,P007,West,Q2,10,Buy One Get One
+PROMO00056,P007,West,Q3,5,Bundle
+PROMO00057,P008,North,Q2,10,Bundle
+PROMO00058,P008,North,Q3,5,Price Discount
+PROMO00059,P008,South,Q2,5,Buy One Get One
+PROMO00060,P008,South,Q3,10,Price Discount
+PROMO00061,P008,East,Q2,10,Bundle
+PROMO00062,P008,East,Q3,15,Buy One Get One
+PROMO00063,P008,West,Q2,5,Buy One Get One
+PROMO00064,P008,West,Q3,10,Retailer Incentive

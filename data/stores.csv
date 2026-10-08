@@ -1,0 +1,501 @@
+store_id,store_name,region,state,city,channel,store_size
+S00001,Store 00001,North,Delhi,Delhi City 4,E-Commerce,Small
+S00002,Store 00002,South,Karnataka,Karnataka City 10,Modern Trade,Medium
+S00003,Store 00003,North,Delhi,Delhi City 4,Modern Trade,Small
+S00004,Store 00004,North,Punjab,Punjab City 4,Pharmacy,Medium
+S00005,Store 00005,East,West Bengal,West Bengal City 7,General Trade,Medium
+S00006,Store 00006,East,Odisha,Odisha City 6,General Trade,Small
+S00007,Store 00007,North,Uttar Pradesh,Uttar Pradesh City 6,Modern Trade,Medium
+S00008,Store 00008,East,West Bengal,West Bengal City 9,Pharmacy,Small
+S00009,Store 00009,West,Maharashtra,Maharashtra City 10,E-Commerce,Medium
+S00010,Store 00010,South,Karnataka,Karnataka City 4,Modern Trade,Medium
+S00011,Store 00011,North,Punjab,Punjab City 7,Modern Trade,Medium
+S00012,Store 00012,West,Rajasthan,Rajasthan City 6,General Trade,Medium
+S00013,Store 00013,South,Kerala,Kerala City 10,Modern Trade,Large
+S00014,Store 00014,South,Andhra Pradesh,Andhra Pradesh City 3,General Trade,Medium
+S00015,Store 00015,West,Rajasthan,Rajasthan City 6,General Trade,Small
+S00016,Store 00016,South,Karnataka,Karnataka City 7,E-Commerce,Medium
+S00017,Store 00017,North,Punjab,Punjab City 4,E-Commerce,Large
+S00018,Store 00018,West,Goa,Goa City 3,Pharmacy,Medium
+S00019,Store 00019,South,Tamil Nadu,Tamil Nadu City 10,E-Commerce,Medium
+S00020,Store 00020,West,Rajasthan,Rajasthan City 3,General Trade,Large
+S00021,Store 00021,West,Maharashtra,Maharashtra City 2,Modern Trade,Small
+S00022,Store 00022,South,Telangana,Telangana City 7,Modern Trade,Medium
+S00023,Store 00023,West,Rajasthan,Rajasthan City 2,Modern Trade,Large
+S00024,Store 00024,East,Bihar,Bihar City 5,Modern Trade,Medium
+S00025,Store 00025,South,Telangana,Telangana City 5,Modern Trade,Large
+S00026,Store 00026,South,Andhra Pradesh,Andhra Pradesh City 5,Modern Trade,Large
+S00027,Store 00027,South,Tamil Nadu,Tamil Nadu City 3,E-Commerce,Large
+S00028,Store 00028,North,Haryana,Haryana City 1,Pharmacy,Small
+S00029,Store 00029,East,Bihar,Bihar City 1,General Trade,Small
+S00030,Store 00030,North,Delhi,Delhi City 2,Pharmacy,Large
+S00031,Store 00031,South,Tamil Nadu,Tamil Nadu City 9,Pharmacy,Small
+S00032,Store 00032,East,Jharkhand,Jharkhand City 9,General Trade,Large
+S00033,Store 00033,South,Kerala,Kerala City 6,Pharmacy,Medium
+S00034,Store 00034,West,Maharashtra,Maharashtra City 4,General Trade,Small
+S00035,Store 00035,East,West Bengal,West Bengal City 10,General Trade,Small
+S00036,Store 00036,North,Delhi,Delhi City 4,Modern Trade,Small
+S00037,Store 00037,North,Haryana,Haryana City 9,Modern Trade,Small
+S00038,Store 00038,East,Jharkhand,Jharkhand City 9,General Trade,Small
+S00039,Store 00039,West,Gujarat,Gujarat City 7,Pharmacy,Small
+S00040,Store 00040,North,Delhi,Delhi City 6,Pharmacy,Medium
+S00041,Store 00041,West,Goa,Goa City 2,Modern Trade,Small
+S00042,Store 00042,West,Rajasthan,Rajasthan City 4,Modern Trade,Small
+S00043,Store 00043,South,Andhra Pradesh,Andhra Pradesh City 3,Pharmacy,Medium
+S00044,Store 00044,South,Kerala,Kerala City 4,Pharmacy,Small
+S00045,Store 00045,West,Maharashtra,Maharashtra City 9,Modern Trade,Small
+S00046,Store 00046,North,Punjab,Punjab City 7,General Trade,Medium
+S00047,Store 00047,West,Gujarat,Gujarat City 1,Pharmacy,Small
+S00048,Store 00048,West,Maharashtra,Maharashtra City 5,Pharmacy,Medium
+S00049,Store 00049,East,Jharkhand,Jharkhand City 3,Pharmacy,Small
+S00050,Store 00050,East,Odisha,Odisha City 10,Modern Trade,Large
+S00051,Store 00051,North,Haryana,Haryana City 1,Modern Trade,Large
+S00052,Store 00052,West,Gujarat,Gujarat City 9,Modern Trade,Small
+S00053,Store 00053,South,Karnataka,Karnataka City 4,Modern Trade,Medium
+S00054,Store 00054,North,Punjab,Punjab City 10,Modern Trade,Small
+S00055,Store 00055,West,Rajasthan,Rajasthan City 4,E-Commerce,Large
+S00056,Store 00056,East,Odisha,Odisha City 7,E-Commerce,Small
+S00057,Store 00057,East,Jharkhand,Jharkhand City 2,E-Commerce,Small
+S00058,Store 00058,West,Maharashtra,Maharashtra City 9,Modern Trade,Small
+S00059,Store 00059,East,Odisha,Odisha City 2,E-Commerce,Small
+S00060,Store 00060,East,Bihar,Bihar City 8,General Trade,Large
+S00061,Store 00061,East,West Bengal,West Bengal City 2,E-Commerce,Small
+S00062,Store 00062,East,West Bengal,West Bengal City 9,Modern Trade,Small
+S00063,Store 00063,East,Bihar,Bihar City 6,General Trade,Small
+S00064,Store 00064,East,Jharkhand,Jharkhand City 1,E-Commerce,Small
+S00065,Store 00065,West,Rajasthan,Rajasthan City 1,Modern Trade,Medium
+S00066,Store 00066,South,Kerala,Kerala City 8,General Trade,Large
+S00067,Store 00067,West,Maharashtra,Maharashtra City 2,Modern Trade,Large
+S00068,Store 00068,South,Andhra Pradesh,Andhra Pradesh City 6,Modern Trade,Large
+S00069,Store 00069,South,Telangana,Telangana City 1,General Trade,Medium
+S00070,Store 00070,East,West Bengal,West Bengal City 4,E-Commerce,Large
+S00071,Store 00071,South,Karnataka,Karnataka City 9,E-Commerce,Medium
+S00072,Store 00072,South,Tamil Nadu,Tamil Nadu City 3,General Trade,Medium
+S00073,Store 00073,North,Punjab,Punjab City 7,E-Commerce,Large
+S00074,Store 00074,South,Kerala,Kerala City 2,General Trade,Medium
+S00075,Store 00075,North,Uttar Pradesh,Uttar Pradesh City 4,General Trade,Medium
+S00076,Store 00076,East,Bihar,Bihar City 4,General Trade,Small
+S00077,Store 00077,South,Telangana,Telangana City 5,E-Commerce,Small
+S00078,Store 00078,East,Bihar,Bihar City 9,Pharmacy,Medium
+S00079,Store 00079,North,Delhi,Delhi City 3,E-Commerce,Large
+S00080,Store 00080,East,West Bengal,West Bengal City 10,Modern Trade,Medium
+S00081,Store 00081,East,Bihar,Bihar City 10,Pharmacy,Large
+S00082,Store 00082,North,Uttar Pradesh,Uttar Pradesh City 5,General Trade,Small
+S00083,Store 00083,West,Maharashtra,Maharashtra City 6,General Trade,Medium
+S00084,Store 00084,North,Haryana,Haryana City 2,E-Commerce,Large
+S00085,Store 00085,East,Bihar,Bihar City 6,Pharmacy,Medium
+S00086,Store 00086,East,Odisha,Odisha City 7,General Trade,Large
+S00087,Store 00087,West,Gujarat,Gujarat City 7,E-Commerce,Large
+S00088,Store 00088,North,Haryana,Haryana City 4,E-Commerce,Medium
+S00089,Store 00089,East,Jharkhand,Jharkhand City 8,Pharmacy,Large
+S00090,Store 00090,South,Andhra Pradesh,Andhra Pradesh City 3,Pharmacy,Large
+S00091,Store 00091,North,Haryana,Haryana City 2,E-Commerce,Small
+S00092,Store 00092,East,Odisha,Odisha City 3,General Trade,Small
+S00093,Store 00093,North,Punjab,Punjab City 10,Pharmacy,Small
+S00094,Store 00094,West,Goa,Goa City 7,General Trade,Medium
+S00095,Store 00095,West,Gujarat,Gujarat City 1,General Trade,Small
+S00096,Store 00096,West,Gujarat,Gujarat City 9,General Trade,Medium
+S00097,Store 00097,North,Punjab,Punjab City 8,Modern Trade,Small
+S00098,Store 00098,West,Rajasthan,Rajasthan City 10,Pharmacy,Large
+S00099,Store 00099,West,Goa,Goa City 8,General Trade,Medium
+S00100,Store 00100,East,Odisha,Odisha City 9,E-Commerce,Medium
+S00101,Store 00101,South,Kerala,Kerala City 2,Pharmacy,Large
+S00102,Store 00102,East,Odisha,Odisha City 6,E-Commerce,Medium
+S00103,Store 00103,North,Punjab,Punjab City 4,General Trade,Medium
+S00104,Store 00104,South,Tamil Nadu,Tamil Nadu City 7,Modern Trade,Medium
+S00105,Store 00105,East,Jharkhand,Jharkhand City 1,Pharmacy,Small
+S00106,Store 00106,West,Goa,Goa City 10,Modern Trade,Medium
+S00107,Store 00107,West,Maharashtra,Maharashtra City 5,E-Commerce,Medium
+S00108,Store 00108,West,Gujarat,Gujarat City 4,Pharmacy,Medium
+S00109,Store 00109,West,Goa,Goa City 7,Modern Trade,Medium
+S00110,Store 00110,West,Gujarat,Gujarat City 3,Pharmacy,Large
+S00111,Store 00111,North,Uttar Pradesh,Uttar Pradesh City 2,Modern Trade,Large
+S00112,Store 00112,West,Gujarat,Gujarat City 3,Pharmacy,Small
+S00113,Store 00113,East,Jharkhand,Jharkhand City 4,E-Commerce,Medium
+S00114,Store 00114,East,Bihar,Bihar City 5,Pharmacy,Medium
+S00115,Store 00115,East,West Bengal,West Bengal City 1,Pharmacy,Large
+S00116,Store 00116,North,Haryana,Haryana City 2,General Trade,Large
+S00117,Store 00117,North,Delhi,Delhi City 4,General Trade,Small
+S00118,Store 00118,South,Tamil Nadu,Tamil Nadu City 8,General Trade,Large
+S00119,Store 00119,North,Punjab,Punjab City 5,Pharmacy,Medium
+S00120,Store 00120,South,Andhra Pradesh,Andhra Pradesh City 3,Modern Trade,Medium
+S00121,Store 00121,North,Delhi,Delhi City 10,E-Commerce,Large
+S00122,Store 00122,West,Goa,Goa City 2,General Trade,Large
+S00123,Store 00123,South,Karnataka,Karnataka City 10,E-Commerce,Small
+S00124,Store 00124,North,Haryana,Haryana City 6,Pharmacy,Small
+S00125,Store 00125,East,West Bengal,West Bengal City 8,Pharmacy,Small
+S00126,Store 00126,West,Rajasthan,Rajasthan City 3,Pharmacy,Medium
+S00127,Store 00127,South,Andhra Pradesh,Andhra Pradesh City 10,E-Commerce,Large
+S00128,Store 00128,West,Goa,Goa City 10,Pharmacy,Medium
+S00129,Store 00129,East,Odisha,Odisha City 5,Modern Trade,Medium
+S00130,Store 00130,South,Telangana,Telangana City 6,Pharmacy,Small
+S00131,Store 00131,West,Rajasthan,Rajasthan City 8,General Trade,Small
+S00132,Store 00132,East,Bihar,Bihar City 5,E-Commerce,Large
+S00133,Store 00133,East,West Bengal,West Bengal City 2,General Trade,Small
+S00134,Store 00134,West,Goa,Goa City 8,General Trade,Large
+S00135,Store 00135,West,Goa,Goa City 2,Modern Trade,Medium
+S00136,Store 00136,South,Telangana,Telangana City 5,General Trade,Large
+S00137,Store 00137,East,Jharkhand,Jharkhand City 7,E-Commerce,Large
+S00138,Store 00138,East,Bihar,Bihar City 5,Pharmacy,Medium
+S00139,Store 00139,East,Odisha,Odisha City 4,Modern Trade,Medium
+S00140,Store 00140,North,Punjab,Punjab City 4,General Trade,Large
+S00141,Store 00141,West,Rajasthan,Rajasthan City 2,E-Commerce,Small
+S00142,Store 00142,East,Odisha,Odisha City 3,E-Commerce,Medium
+S00143,Store 00143,North,Punjab,Punjab City 1,E-Commerce,Small
+S00144,Store 00144,East,Odisha,Odisha City 2,Pharmacy,Small
+S00145,Store 00145,East,Jharkhand,Jharkhand City 8,Pharmacy,Medium
+S00146,Store 00146,South,Karnataka,Karnataka City 8,E-Commerce,Small
+S00147,Store 00147,North,Uttar Pradesh,Uttar Pradesh City 2,Pharmacy,Large
+S00148,Store 00148,North,Punjab,Punjab City 10,General Trade,Medium
+S00149,Store 00149,North,Punjab,Punjab City 9,Modern Trade,Medium
+S00150,Store 00150,South,Andhra Pradesh,Andhra Pradesh City 8,Pharmacy,Medium
+S00151,Store 00151,East,Jharkhand,Jharkhand City 10,E-Commerce,Large
+S00152,Store 00152,North,Delhi,Delhi City 4,General Trade,Medium
+S00153,Store 00153,North,Punjab,Punjab City 3,General Trade,Large
+S00154,Store 00154,North,Punjab,Punjab City 7,Modern Trade,Medium
+S00155,Store 00155,West,Rajasthan,Rajasthan City 4,Modern Trade,Medium
+S00156,Store 00156,East,Jharkhand,Jharkhand City 4,Modern Trade,Medium
+S00157,Store 00157,South,Telangana,Telangana City 9,Modern Trade,Small
+S00158,Store 00158,South,Kerala,Kerala City 2,General Trade,Small
+S00159,Store 00159,South,Kerala,Kerala City 8,E-Commerce,Small
+S00160,Store 00160,West,Rajasthan,Rajasthan City 5,Pharmacy,Large
+S00161,Store 00161,West,Goa,Goa City 10,Modern Trade,Small
+S00162,Store 00162,West,Rajasthan,Rajasthan City 1,E-Commerce,Small
+S00163,Store 00163,South,Andhra Pradesh,Andhra Pradesh City 5,Modern Trade,Large
+S00164,Store 00164,North,Punjab,Punjab City 9,Pharmacy,Large
+S00165,Store 00165,West,Rajasthan,Rajasthan City 10,General Trade,Medium
+S00166,Store 00166,West,Maharashtra,Maharashtra City 6,Pharmacy,Medium
+S00167,Store 00167,East,Bihar,Bihar City 3,Modern Trade,Medium
+S00168,Store 00168,West,Goa,Goa City 7,E-Commerce,Large
+S00169,Store 00169,North,Uttar Pradesh,Uttar Pradesh City 6,Modern Trade,Medium
+S00170,Store 00170,East,West Bengal,West Bengal City 9,Pharmacy,Small
+S00171,Store 00171,West,Goa,Goa City 4,Modern Trade,Large
+S00172,Store 00172,East,Jharkhand,Jharkhand City 1,Pharmacy,Small
+S00173,Store 00173,East,Odisha,Odisha City 8,E-Commerce,Large
+S00174,Store 00174,West,Maharashtra,Maharashtra City 10,Modern Trade,Small
+S00175,Store 00175,South,Kerala,Kerala City 9,Modern Trade,Medium
+S00176,Store 00176,North,Punjab,Punjab City 8,Modern Trade,Small
+S00177,Store 00177,South,Telangana,Telangana City 9,E-Commerce,Large
+S00178,Store 00178,East,Jharkhand,Jharkhand City 8,Pharmacy,Small
+S00179,Store 00179,West,Gujarat,Gujarat City 4,Pharmacy,Large
+S00180,Store 00180,South,Karnataka,Karnataka City 7,E-Commerce,Medium
+S00181,Store 00181,East,West Bengal,West Bengal City 5,E-Commerce,Large
+S00182,Store 00182,West,Gujarat,Gujarat City 9,Pharmacy,Medium
+S00183,Store 00183,East,Bihar,Bihar City 8,Pharmacy,Medium
+S00184,Store 00184,South,Tamil Nadu,Tamil Nadu City 4,Pharmacy,Medium
+S00185,Store 00185,North,Haryana,Haryana City 7,Pharmacy,Medium
+S00186,Store 00186,South,Telangana,Telangana City 3,Modern Trade,Large
+S00187,Store 00187,East,West Bengal,West Bengal City 2,Pharmacy,Large
+S00188,Store 00188,West,Maharashtra,Maharashtra City 7,General Trade,Large
+S00189,Store 00189,South,Karnataka,Karnataka City 5,Pharmacy,Medium
+S00190,Store 00190,West,Maharashtra,Maharashtra City 9,E-Commerce,Medium
+S00191,Store 00191,East,Jharkhand,Jharkhand City 10,Modern Trade,Small
+S00192,Store 00192,South,Kerala,Kerala City 2,General Trade,Medium
+S00193,Store 00193,North,Delhi,Delhi City 3,Pharmacy,Large
+S00194,Store 00194,East,West Bengal,West Bengal City 6,Modern Trade,Small
+S00195,Store 00195,East,Bihar,Bihar City 7,E-Commerce,Small
+S00196,Store 00196,South,Andhra Pradesh,Andhra Pradesh City 10,Pharmacy,Large
+S00197,Store 00197,South,Tamil Nadu,Tamil Nadu City 2,General Trade,Large
+S00198,Store 00198,West,Gujarat,Gujarat City 10,Pharmacy,Small
+S00199,Store 00199,South,Telangana,Telangana City 8,E-Commerce,Medium
+S00200,Store 00200,North,Uttar Pradesh,Uttar Pradesh City 9,E-Commerce,Small
+S00201,Store 00201,North,Uttar Pradesh,Uttar Pradesh City 10,E-Commerce,Medium
+S00202,Store 00202,West,Rajasthan,Rajasthan City 5,Pharmacy,Small
+S00203,Store 00203,West,Goa,Goa City 4,Modern Trade,Medium
+S00204,Store 00204,East,Bihar,Bihar City 1,E-Commerce,Large
+S00205,Store 00205,West,Rajasthan,Rajasthan City 10,Modern Trade,Large
+S00206,Store 00206,North,Uttar Pradesh,Uttar Pradesh City 4,E-Commerce,Large
+S00207,Store 00207,East,Odisha,Odisha City 10,General Trade,Medium
+S00208,Store 00208,South,Karnataka,Karnataka City 5,Modern Trade,Medium
+S00209,Store 00209,North,Haryana,Haryana City 2,General Trade,Medium
+S00210,Store 00210,East,Jharkhand,Jharkhand City 4,General Trade,Small
+S00211,Store 00211,East,Bihar,Bihar City 5,General Trade,Medium
+S00212,Store 00212,East,Bihar,Bihar City 8,Modern Trade,Small
+S00213,Store 00213,South,Tamil Nadu,Tamil Nadu City 9,Pharmacy,Medium
+S00214,Store 00214,North,Uttar Pradesh,Uttar Pradesh City 5,Modern Trade,Large
+S00215,Store 00215,North,Uttar Pradesh,Uttar Pradesh City 5,E-Commerce,Large
+S00216,Store 00216,West,Rajasthan,Rajasthan City 4,Modern Trade,Medium
+S00217,Store 00217,North,Haryana,Haryana City 2,General Trade,Large
+S00218,Store 00218,West,Rajasthan,Rajasthan City 2,Pharmacy,Small
+S00219,Store 00219,North,Delhi,Delhi City 8,E-Commerce,Small
+S00220,Store 00220,North,Punjab,Punjab City 7,General Trade,Medium
+S00221,Store 00221,East,Jharkhand,Jharkhand City 7,General Trade,Large
+S00222,Store 00222,North,Uttar Pradesh,Uttar Pradesh City 5,Pharmacy,Small
+S00223,Store 00223,East,Odisha,Odisha City 8,Pharmacy,Small
+S00224,Store 00224,East,West Bengal,West Bengal City 9,E-Commerce,Large
+S00225,Store 00225,East,West Bengal,West Bengal City 5,Pharmacy,Small
+S00226,Store 00226,North,Uttar Pradesh,Uttar Pradesh City 4,Modern Trade,Large
+S00227,Store 00227,North,Delhi,Delhi City 4,E-Commerce,Small
+S00228,Store 00228,South,Karnataka,Karnataka City 10,General Trade,Small
+S00229,Store 00229,South,Kerala,Kerala City 10,General Trade,Small
+S00230,Store 00230,East,Odisha,Odisha City 9,General Trade,Medium
+S00231,Store 00231,South,Karnataka,Karnataka City 3,Modern Trade,Small
+S00232,Store 00232,East,Odisha,Odisha City 1,E-Commerce,Small
+S00233,Store 00233,East,West Bengal,West Bengal City 7,General Trade,Large
+S00234,Store 00234,North,Delhi,Delhi City 8,Pharmacy,Medium
+S00235,Store 00235,North,Uttar Pradesh,Uttar Pradesh City 10,General Trade,Small
+S00236,Store 00236,East,Jharkhand,Jharkhand City 1,Modern Trade,Medium
+S00237,Store 00237,West,Goa,Goa City 8,Modern Trade,Large
+S00238,Store 00238,West,Maharashtra,Maharashtra City 6,Modern Trade,Large
+S00239,Store 00239,South,Karnataka,Karnataka City 5,General Trade,Large
+S00240,Store 00240,East,Jharkhand,Jharkhand City 8,E-Commerce,Large
+S00241,Store 00241,West,Maharashtra,Maharashtra City 9,Modern Trade,Large
+S00242,Store 00242,South,Telangana,Telangana City 4,Pharmacy,Medium
+S00243,Store 00243,East,Jharkhand,Jharkhand City 7,Pharmacy,Large
+S00244,Store 00244,North,Haryana,Haryana City 6,Pharmacy,Large
+S00245,Store 00245,East,Bihar,Bihar City 8,General Trade,Small
+S00246,Store 00246,North,Delhi,Delhi City 7,Modern Trade,Small
+S00247,Store 00247,East,Odisha,Odisha City 10,Modern Trade,Large
+S00248,Store 00248,East,West Bengal,West Bengal City 6,Pharmacy,Large
+S00249,Store 00249,West,Maharashtra,Maharashtra City 10,E-Commerce,Medium
+S00250,Store 00250,East,West Bengal,West Bengal City 3,General Trade,Large
+S00251,Store 00251,West,Gujarat,Gujarat City 6,Modern Trade,Large
+S00252,Store 00252,East,West Bengal,West Bengal City 10,E-Commerce,Small
+S00253,Store 00253,West,Maharashtra,Maharashtra City 1,E-Commerce,Small
+S00254,Store 00254,East,Bihar,Bihar City 6,E-Commerce,Small
+S00255,Store 00255,South,Tamil Nadu,Tamil Nadu City 2,Pharmacy,Small
+S00256,Store 00256,North,Delhi,Delhi City 7,General Trade,Medium
+S00257,Store 00257,West,Rajasthan,Rajasthan City 6,General Trade,Medium
+S00258,Store 00258,East,West Bengal,West Bengal City 3,Modern Trade,Small
+S00259,Store 00259,North,Delhi,Delhi City 8,E-Commerce,Large
+S00260,Store 00260,West,Goa,Goa City 7,Pharmacy,Medium
+S00261,Store 00261,South,Andhra Pradesh,Andhra Pradesh City 6,Modern Trade,Medium
+S00262,Store 00262,North,Haryana,Haryana City 9,Pharmacy,Large
+S00263,Store 00263,East,West Bengal,West Bengal City 7,General Trade,Large
+S00264,Store 00264,North,Delhi,Delhi City 5,General Trade,Small
+S00265,Store 00265,South,Kerala,Kerala City 6,E-Commerce,Small
+S00266,Store 00266,North,Uttar Pradesh,Uttar Pradesh City 3,Pharmacy,Small
+S00267,Store 00267,West,Gujarat,Gujarat City 2,E-Commerce,Medium
+S00268,Store 00268,North,Uttar Pradesh,Uttar Pradesh City 8,Modern Trade,Small
+S00269,Store 00269,East,Jharkhand,Jharkhand City 7,Pharmacy,Medium
+S00270,Store 00270,North,Uttar Pradesh,Uttar Pradesh City 6,Modern Trade,Small
+S00271,Store 00271,West,Rajasthan,Rajasthan City 7,Modern Trade,Small
+S00272,Store 00272,South,Telangana,Telangana City 9,Pharmacy,Small
+S00273,Store 00273,West,Rajasthan,Rajasthan City 4,E-Commerce,Medium
+S00274,Store 00274,South,Karnataka,Karnataka City 9,Modern Trade,Large
+S00275,Store 00275,South,Kerala,Kerala City 3,E-Commerce,Small
+S00276,Store 00276,North,Punjab,Punjab City 4,E-Commerce,Small
+S00277,Store 00277,South,Karnataka,Karnataka City 8,General Trade,Medium
+S00278,Store 00278,West,Rajasthan,Rajasthan City 3,E-Commerce,Medium
+S00279,Store 00279,North,Uttar Pradesh,Uttar Pradesh City 5,Pharmacy,Medium
+S00280,Store 00280,North,Haryana,Haryana City 5,Modern Trade,Medium
+S00281,Store 00281,West,Maharashtra,Maharashtra City 6,Modern Trade,Medium
+S00282,Store 00282,North,Delhi,Delhi City 8,Pharmacy,Large
+S00283,Store 00283,North,Uttar Pradesh,Uttar Pradesh City 6,General Trade,Large
+S00284,Store 00284,West,Gujarat,Gujarat City 8,Modern Trade,Small
+S00285,Store 00285,East,West Bengal,West Bengal City 1,General Trade,Small
+S00286,Store 00286,West,Goa,Goa City 6,General Trade,Medium
+S00287,Store 00287,East,Jharkhand,Jharkhand City 6,Pharmacy,Large
+S00288,Store 00288,North,Haryana,Haryana City 6,Modern Trade,Small
+S00289,Store 00289,West,Rajasthan,Rajasthan City 10,E-Commerce,Small
+S00290,Store 00290,East,West Bengal,West Bengal City 6,General Trade,Medium
+S00291,Store 00291,West,Gujarat,Gujarat City 5,Modern Trade,Large
+S00292,Store 00292,West,Rajasthan,Rajasthan City 9,General Trade,Small
+S00293,Store 00293,West,Rajasthan,Rajasthan City 6,Modern Trade,Medium
+S00294,Store 00294,South,Tamil Nadu,Tamil Nadu City 8,E-Commerce,Small
+S00295,Store 00295,South,Tamil Nadu,Tamil Nadu City 2,General Trade,Medium
+S00296,Store 00296,North,Delhi,Delhi City 10,E-Commerce,Small
+S00297,Store 00297,West,Gujarat,Gujarat City 3,General Trade,Large
+S00298,Store 00298,South,Telangana,Telangana City 7,Modern Trade,Medium
+S00299,Store 00299,South,Telangana,Telangana City 8,E-Commerce,Small
+S00300,Store 00300,South,Kerala,Kerala City 4,Pharmacy,Medium
+S00301,Store 00301,West,Goa,Goa City 7,E-Commerce,Large
+S00302,Store 00302,West,Gujarat,Gujarat City 10,General Trade,Small
+S00303,Store 00303,East,West Bengal,West Bengal City 6,Pharmacy,Large
+S00304,Store 00304,North,Delhi,Delhi City 2,E-Commerce,Small
+S00305,Store 00305,East,Jharkhand,Jharkhand City 7,General Trade,Small
+S00306,Store 00306,South,Telangana,Telangana City 1,E-Commerce,Medium
+S00307,Store 00307,North,Uttar Pradesh,Uttar Pradesh City 4,E-Commerce,Medium
+S00308,Store 00308,North,Haryana,Haryana City 1,General Trade,Medium
+S00309,Store 00309,North,Haryana,Haryana City 3,General Trade,Small
+S00310,Store 00310,East,Jharkhand,Jharkhand City 8,General Trade,Medium
+S00311,Store 00311,North,Delhi,Delhi City 5,Modern Trade,Small
+S00312,Store 00312,South,Andhra Pradesh,Andhra Pradesh City 2,Pharmacy,Medium
+S00313,Store 00313,South,Kerala,Kerala City 1,Modern Trade,Small
+S00314,Store 00314,West,Goa,Goa City 2,Modern Trade,Medium
+S00315,Store 00315,North,Punjab,Punjab City 5,General Trade,Medium
+S00316,Store 00316,North,Haryana,Haryana City 10,General Trade,Medium
+S00317,Store 00317,South,Karnataka,Karnataka City 2,E-Commerce,Large
+S00318,Store 00318,North,Uttar Pradesh,Uttar Pradesh City 1,Pharmacy,Large
+S00319,Store 00319,West,Rajasthan,Rajasthan City 1,E-Commerce,Medium
+S00320,Store 00320,North,Haryana,Haryana City 2,General Trade,Large
+S00321,Store 00321,East,Odisha,Odisha City 6,Modern Trade,Large
+S00322,Store 00322,East,Odisha,Odisha City 8,Pharmacy,Large
+S00323,Store 00323,South,Tamil Nadu,Tamil Nadu City 8,Modern Trade,Small
+S00324,Store 00324,East,Odisha,Odisha City 4,Modern Trade,Small
+S00325,Store 00325,East,Bihar,Bihar City 9,Pharmacy,Medium
+S00326,Store 00326,East,West Bengal,West Bengal City 5,General Trade,Medium
+S00327,Store 00327,North,Haryana,Haryana City 2,E-Commerce,Medium
+S00328,Store 00328,West,Goa,Goa City 7,Pharmacy,Medium
+S00329,Store 00329,South,Telangana,Telangana City 6,Pharmacy,Large
+S00330,Store 00330,East,West Bengal,West Bengal City 2,Pharmacy,Medium
+S00331,Store 00331,South,Andhra Pradesh,Andhra Pradesh City 6,E-Commerce,Small
+S00332,Store 00332,North,Haryana,Haryana City 5,E-Commerce,Medium
+S00333,Store 00333,West,Gujarat,Gujarat City 6,Pharmacy,Medium
+S00334,Store 00334,North,Haryana,Haryana City 5,Pharmacy,Large
+S00335,Store 00335,North,Delhi,Delhi City 6,Pharmacy,Large
+S00336,Store 00336,South,Karnataka,Karnataka City 10,General Trade,Large
+S00337,Store 00337,West,Maharashtra,Maharashtra City 2,General Trade,Small
+S00338,Store 00338,East,Bihar,Bihar City 10,Pharmacy,Small
+S00339,Store 00339,South,Telangana,Telangana City 6,E-Commerce,Medium
+S00340,Store 00340,North,Punjab,Punjab City 7,E-Commerce,Medium
+S00341,Store 00341,East,Odisha,Odisha City 1,Modern Trade,Large
+S00342,Store 00342,South,Telangana,Telangana City 9,Pharmacy,Small
+S00343,Store 00343,East,Bihar,Bihar City 4,Pharmacy,Large
+S00344,Store 00344,East,Jharkhand,Jharkhand City 2,General Trade,Small
+S00345,Store 00345,North,Uttar Pradesh,Uttar Pradesh City 8,General Trade,Small
+S00346,Store 00346,East,Bihar,Bihar City 9,Modern Trade,Large
+S00347,Store 00347,East,Bihar,Bihar City 3,General Trade,Medium
+S00348,Store 00348,South,Karnataka,Karnataka City 3,General Trade,Small
+S00349,Store 00349,West,Maharashtra,Maharashtra City 9,E-Commerce,Large
+S00350,Store 00350,East,Jharkhand,Jharkhand City 10,General Trade,Small
+S00351,Store 00351,North,Haryana,Haryana City 8,Pharmacy,Large
+S00352,Store 00352,West,Goa,Goa City 3,Modern Trade,Medium
+S00353,Store 00353,North,Uttar Pradesh,Uttar Pradesh City 9,Pharmacy,Medium
+S00354,Store 00354,South,Andhra Pradesh,Andhra Pradesh City 3,General Trade,Medium
+S00355,Store 00355,North,Delhi,Delhi City 5,General Trade,Small
+S00356,Store 00356,South,Kerala,Kerala City 6,General Trade,Large
+S00357,Store 00357,East,West Bengal,West Bengal City 4,E-Commerce,Large
+S00358,Store 00358,East,Odisha,Odisha City 10,E-Commerce,Large
+S00359,Store 00359,North,Punjab,Punjab City 3,General Trade,Large
+S00360,Store 00360,East,West Bengal,West Bengal City 2,Modern Trade,Small
+S00361,Store 00361,East,Odisha,Odisha City 10,Pharmacy,Large
+S00362,Store 00362,North,Uttar Pradesh,Uttar Pradesh City 5,E-Commerce,Medium
+S00363,Store 00363,South,Telangana,Telangana City 8,E-Commerce,Small
+S00364,Store 00364,North,Punjab,Punjab City 7,Pharmacy,Medium
+S00365,Store 00365,West,Gujarat,Gujarat City 10,E-Commerce,Small
+S00366,Store 00366,East,Bihar,Bihar City 7,E-Commerce,Small
+S00367,Store 00367,East,West Bengal,West Bengal City 4,E-Commerce,Medium
+S00368,Store 00368,North,Haryana,Haryana City 4,Pharmacy,Small
+S00369,Store 00369,North,Delhi,Delhi City 7,E-Commerce,Large
+S00370,Store 00370,West,Gujarat,Gujarat City 6,General Trade,Large
+S00371,Store 00371,East,Odisha,Odisha City 8,General Trade,Large
+S00372,Store 00372,West,Goa,Goa City 8,E-Commerce,Small
+S00373,Store 00373,North,Uttar Pradesh,Uttar Pradesh City 4,Pharmacy,Small
+S00374,Store 00374,East,West Bengal,West Bengal City 5,Modern Trade,Medium
+S00375,Store 00375,West,Rajasthan,Rajasthan City 2,Modern Trade,Medium
+S00376,Store 00376,South,Kerala,Kerala City 7,E-Commerce,Medium
+S00377,Store 00377,North,Uttar Pradesh,Uttar Pradesh City 10,Modern Trade,Large
+S00378,Store 00378,South,Kerala,Kerala City 2,E-Commerce,Medium
+S00379,Store 00379,West,Rajasthan,Rajasthan City 3,Modern Trade,Small
+S00380,Store 00380,West,Rajasthan,Rajasthan City 9,E-Commerce,Medium
+S00381,Store 00381,South,Tamil Nadu,Tamil Nadu City 9,Pharmacy,Small
+S00382,Store 00382,North,Delhi,Delhi City 6,General Trade,Medium
+S00383,Store 00383,West,Gujarat,Gujarat City 6,General Trade,Large
+S00384,Store 00384,East,Odisha,Odisha City 10,Pharmacy,Large
+S00385,Store 00385,East,Bihar,Bihar City 10,Pharmacy,Medium
+S00386,Store 00386,West,Maharashtra,Maharashtra City 6,E-Commerce,Large
+S00387,Store 00387,North,Uttar Pradesh,Uttar Pradesh City 1,E-Commerce,Large
+S00388,Store 00388,West,Rajasthan,Rajasthan City 1,General Trade,Large
+S00389,Store 00389,West,Gujarat,Gujarat City 3,Pharmacy,Large
+S00390,Store 00390,South,Karnataka,Karnataka City 4,Modern Trade,Small
+S00391,Store 00391,West,Rajasthan,Rajasthan City 3,Pharmacy,Medium
+S00392,Store 00392,South,Telangana,Telangana City 1,Pharmacy,Large
+S00393,Store 00393,South,Andhra Pradesh,Andhra Pradesh City 9,General Trade,Medium
+S00394,Store 00394,West,Goa,Goa City 3,E-Commerce,Medium
+S00395,Store 00395,East,Bihar,Bihar City 10,E-Commerce,Medium
+S00396,Store 00396,South,Tamil Nadu,Tamil Nadu City 9,E-Commerce,Medium
+S00397,Store 00397,South,Kerala,Kerala City 4,E-Commerce,Large
+S00398,Store 00398,West,Rajasthan,Rajasthan City 6,Pharmacy,Large
+S00399,Store 00399,East,Bihar,Bihar City 10,Modern Trade,Large
+S00400,Store 00400,West,Goa,Goa City 3,E-Commerce,Medium
+S00401,Store 00401,North,Haryana,Haryana City 6,Modern Trade,Medium
+S00402,Store 00402,East,Jharkhand,Jharkhand City 4,General Trade,Large
+S00403,Store 00403,East,Bihar,Bihar City 2,General Trade,Large
+S00404,Store 00404,South,Tamil Nadu,Tamil Nadu City 9,Modern Trade,Small
+S00405,Store 00405,South,Karnataka,Karnataka City 7,Modern Trade,Medium
+S00406,Store 00406,West,Maharashtra,Maharashtra City 1,General Trade,Large
+S00407,Store 00407,South,Telangana,Telangana City 8,Pharmacy,Large
+S00408,Store 00408,South,Kerala,Kerala City 5,E-Commerce,Large
+S00409,Store 00409,North,Delhi,Delhi City 9,General Trade,Large
+S00410,Store 00410,North,Punjab,Punjab City 3,Pharmacy,Small
+S00411,Store 00411,West,Goa,Goa City 5,General Trade,Small
+S00412,Store 00412,North,Haryana,Haryana City 6,Modern Trade,Medium
+S00413,Store 00413,West,Goa,Goa City 9,General Trade,Medium
+S00414,Store 00414,East,Odisha,Odisha City 6,Modern Trade,Small
+S00415,Store 00415,West,Rajasthan,Rajasthan City 1,General Trade,Large
+S00416,Store 00416,East,Bihar,Bihar City 3,General Trade,Large
+S00417,Store 00417,West,Goa,Goa City 2,E-Commerce,Medium
+S00418,Store 00418,North,Punjab,Punjab City 8,General Trade,Medium
+S00419,Store 00419,South,Karnataka,Karnataka City 7,E-Commerce,Small
+S00420,Store 00420,West,Rajasthan,Rajasthan City 5,E-Commerce,Large
+S00421,Store 00421,North,Haryana,Haryana City 4,E-Commerce,Small
+S00422,Store 00422,North,Uttar Pradesh,Uttar Pradesh City 3,E-Commerce,Medium
+S00423,Store 00423,East,West Bengal,West Bengal City 6,E-Commerce,Large
+S00424,Store 00424,South,Tamil Nadu,Tamil Nadu City 8,General Trade,Small
+S00425,Store 00425,West,Rajasthan,Rajasthan City 9,Pharmacy,Medium
+S00426,Store 00426,South,Tamil Nadu,Tamil Nadu City 9,Modern Trade,Medium
+S00427,Store 00427,East,West Bengal,West Bengal City 1,Modern Trade,Large
+S00428,Store 00428,South,Andhra Pradesh,Andhra Pradesh City 3,General Trade,Medium
+S00429,Store 00429,West,Maharashtra,Maharashtra City 10,General Trade,Medium
+S00430,Store 00430,North,Uttar Pradesh,Uttar Pradesh City 8,Modern Trade,Small
+S00431,Store 00431,West,Goa,Goa City 9,Modern Trade,Medium
+S00432,Store 00432,East,West Bengal,West Bengal City 5,Pharmacy,Small
+S00433,Store 00433,South,Andhra Pradesh,Andhra Pradesh City 1,Modern Trade,Medium
+S00434,Store 00434,East,West Bengal,West Bengal City 2,Modern Trade,Medium
+S00435,Store 00435,North,Haryana,Haryana City 3,Pharmacy,Small
+S00436,Store 00436,West,Rajasthan,Rajasthan City 8,Pharmacy,Medium
+S00437,Store 00437,West,Maharashtra,Maharashtra City 6,General Trade,Small
+S00438,Store 00438,South,Andhra Pradesh,Andhra Pradesh City 9,Pharmacy,Small
+S00439,Store 00439,South,Karnataka,Karnataka City 5,Modern Trade,Medium
+S00440,Store 00440,West,Goa,Goa City 4,General Trade,Medium
+S00441,Store 00441,East,Odisha,Odisha City 4,E-Commerce,Large
+S00442,Store 00442,North,Delhi,Delhi City 10,Pharmacy,Small
+S00443,Store 00443,South,Tamil Nadu,Tamil Nadu City 2,Modern Trade,Large
+S00444,Store 00444,North,Uttar Pradesh,Uttar Pradesh City 4,Modern Trade,Large
+S00445,Store 00445,North,Uttar Pradesh,Uttar Pradesh City 4,Pharmacy,Large
+S00446,Store 00446,South,Karnataka,Karnataka City 9,General Trade,Medium
+S00447,Store 00447,South,Andhra Pradesh,Andhra Pradesh City 10,E-Commerce,Large
+S00448,Store 00448,East,Odisha,Odisha City 3,E-Commerce,Large
+S00449,Store 00449,South,Telangana,Telangana City 5,E-Commerce,Small
+S00450,Store 00450,South,Telangana,Telangana City 1,Pharmacy,Medium
+S00451,Store 00451,West,Rajasthan,Rajasthan City 7,Pharmacy,Small
+S00452,Store 00452,East,Jharkhand,Jharkhand City 9,General Trade,Medium
+S00453,Store 00453,South,Tamil Nadu,Tamil Nadu City 3,E-Commerce,Medium
+S00454,Store 00454,North,Uttar Pradesh,Uttar Pradesh City 9,Pharmacy,Large
+S00455,Store 00455,South,Telangana,Telangana City 5,General Trade,Small
+S00456,Store 00456,East,West Bengal,West Bengal City 6,Pharmacy,Small
+S00457,Store 00457,South,Karnataka,Karnataka City 7,E-Commerce,Large
+S00458,Store 00458,North,Delhi,Delhi City 10,General Trade,Large
+S00459,Store 00459,South,Telangana,Telangana City 6,General Trade,Medium
+S00460,Store 00460,North,Punjab,Punjab City 2,General Trade,Large
+S00461,Store 00461,West,Gujarat,Gujarat City 7,General Trade,Small
+S00462,Store 00462,East,Bihar,Bihar City 8,Pharmacy,Large
+S00463,Store 00463,East,Bihar,Bihar City 6,E-Commerce,Large
+S00464,Store 00464,West,Goa,Goa City 8,Modern Trade,Medium
+S00465,Store 00465,South,Kerala,Kerala City 7,E-Commerce,Small
+S00466,Store 00466,South,Tamil Nadu,Tamil Nadu City 5,Modern Trade,Large
+S00467,Store 00467,West,Rajasthan,Rajasthan City 4,General Trade,Medium
+S00468,Store 00468,South,Telangana,Telangana City 8,General Trade,Large
+S00469,Store 00469,East,Bihar,Bihar City 8,Pharmacy,Medium
+S00470,Store 00470,South,Kerala,Kerala City 3,General Trade,Large
+S00471,Store 00471,West,Gujarat,Gujarat City 9,Modern Trade,Small
+S00472,Store 00472,North,Delhi,Delhi City 7,Modern Trade,Small
+S00473,Store 00473,South,Karnataka,Karnataka City 1,General Trade,Small
+S00474,Store 00474,West,Rajasthan,Rajasthan City 10,Modern Trade,Large
+S00475,Store 00475,West,Goa,Goa City 1,Modern Trade,Large
+S00476,Store 00476,West,Maharashtra,Maharashtra City 9,Modern Trade,Large
+S00477,Store 00477,East,Bihar,Bihar City 9,Modern Trade,Large
+S00478,Store 00478,West,Gujarat,Gujarat City 2,Modern Trade,Large
+S00479,Store 00479,South,Tamil Nadu,Tamil Nadu City 10,General Trade,Large
+S00480,Store 00480,East,Bihar,Bihar City 7,E-Commerce,Small
+S00481,Store 00481,East,Jharkhand,Jharkhand City 10,Pharmacy,Small
+S00482,Store 00482,South,Kerala,Kerala City 1,Modern Trade,Small
+S00483,Store 00483,West,Goa,Goa City 9,Pharmacy,Medium
+S00484,Store 00484,North,Delhi,Delhi City 2,General Trade,Medium
+S00485,Store 00485,West,Rajasthan,Rajasthan City 9,Modern Trade,Small
+S00486,Store 00486,South,Tamil Nadu,Tamil Nadu City 5,Pharmacy,Small
+S00487,Store 00487,North,Haryana,Haryana City 3,Modern Trade,Medium
+S00488,Store 00488,North,Punjab,Punjab City 7,General Trade,Small
+S00489,Store 00489,East,Odisha,Odisha City 10,General Trade,Medium
+S00490,Store 00490,East,Jharkhand,Jharkhand City 2,General Trade,Large
+S00491,Store 00491,East,West Bengal,West Bengal City 7,Modern Trade,Small
+S00492,Store 00492,North,Haryana,Haryana City 6,Pharmacy,Small
+S00493,Store 00493,East,Jharkhand,Jharkhand City 4,Pharmacy,Medium
+S00494,Store 00494,West,Goa,Goa City 10,General Trade,Large
+S00495,Store 00495,West,Maharashtra,Maharashtra City 4,E-Commerce,Large
+S00496,Store 00496,North,Delhi,Delhi City 3,E-Commerce,Medium
+S00497,Store 00497,South,Telangana,Telangana City 6,E-Commerce,Small
+S00498,Store 00498,North,Delhi,Delhi City 8,E-Commerce,Medium
+S00499,Store 00499,East,West Bengal,West Bengal City 2,General Trade,Small
+S00500,Store 00500,West,Goa,Goa City 2,Pharmacy,Small
